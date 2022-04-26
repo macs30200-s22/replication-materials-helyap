@@ -2,7 +2,7 @@
 
 # Exploratory findings:
 ## Results from logistic regression - mobilization of mother
-Notable finding: the child's perception of their father's class is statistically signficant as a predictor for mobiizing their mother in the job search process.
+Notable finding: the child's perception of their father's class and their tie strength with their mother are statistically signficant as predictors for mobiizing their mother in the job search process.
 ![](mother_activation_results.png "Results: mobilization of mother's network")
 
 ## Results from logistic regression - mobilization of father
