@@ -21,3 +21,6 @@ Firstly, the main predictor variables of interest (social class, tie strength, n
 
 ### Instructions to re-run:
 Load the provided csv file and run all lines in the Jupyter Notebook
+
+# Citation:
+* [Citation file](https://github.com/macs30200-s22/replication-materials-helyap/blob/main/CITATION.cff)
