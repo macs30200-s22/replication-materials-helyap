@@ -1,4 +1,10 @@
-# How does subjective social class affect mobilizatoin of parental aid in the job search process?
+# How does subjective social class affect mobilizatipn of parental aid in the job search process?
+
+The provided Jupyter notebooks are written in python 3.7.3. To install the required packages and dependences, please run the following code in reference to the provided `requirements.txt` file
+
+```
+pip install -r requirements.txt
+```
 
 # Exploratory findings:
 ## Results from logistic regression - mobilization of mother
