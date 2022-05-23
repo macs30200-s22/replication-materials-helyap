@@ -15,7 +15,7 @@ Notable finding: the child's perception of their father's class and their tie st
 ![](father_activation_results.png "Results: mobilization of father's network")
 
 ## Significance of intial findings:
-Firstly, the main predictor variables of interest (social class, tie strength, network size) were not able to predict the mobilization of the father in the job search process in logistic regression. However, the father's social class was statistically significant in predicting the mobilization of the mother when accounting for the predictor variables of interest and also controlling for race and gender of the respondent. Due to the small sample size, additional review is necessary to see if the results replicate (the sample was also non-representative with 0 self-reported identities of Hispanic/Latino ethinicity).
+Firstly, the main predictor variables of interest (perceived social class of parent and tie strength) were not able to predict the mobilization of the mother in the job search process in logistic regression. However, the father's social class was statistically significant in predicting the mobilization of the mother. When accounting for the father's social class, the child-mother tie strength was also a significant predictor. Due to the small sample size, additional review is necessary to see if the results replicate (the sample was also non-representative with 0 self-reported identities of Hispanic/Latino ethinicity).
 
 ### Additional exploratory results (including participant demographics) can be found in the jupyter notebook: 
 - [Jupyter Notebook : Initial data analysis](https://github.com/macs30200-s22/replication-materials-helyap/blob/main/child_network_survey_analysis.ipynb)
@@ -27,7 +27,7 @@ Firstly, the main predictor variables of interest (social class, tie strength, n
 * pandas 1.3.5
 
 ### Instructions to re-run:
-Load the provided csv file and run all lines in the Jupyter Notebook
+Install the required dependencies, load the provided csv file, and run all lines in the Jupyter Notebook
 
 # Citation:
 * [Citation file](https://github.com/macs30200-s22/replication-materials-helyap/blob/main/CITATION.cff)
