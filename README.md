@@ -7,8 +7,9 @@ pip install -r requirements.txt
 ```
 
 ## Dataset
-[Survey responses, N = 45] (https://github.com/macs30200-s22/replication-materials-helyap/blob/main/child-parent_network_cleaned.csv)
-Column labels:
+[Amazon Mechanical Turk survey results, N = 45](https://github.com/macs30200-s22/replication-materials-helyap/blob/main/child-parent_network_cleaned.csv)
+
+### Column labels:
 * job_desc: description of job	
 * e_class: respondent's perception of own social class
 * network_size: respondent's estimate of mobilized network size	
@@ -25,8 +26,8 @@ Column labels:
 * e_ethnicity: respondent's ethnicity	
 * att_check: attention check question
 
-### Data analysis: 
-- [Jupyter Notebook : Data Analysis](https://github.com/macs30200-s22/replication-materials-helyap/blob/main/child_network_survey_analysis.ipynb)
+## Data analysis: 
+* [Jupyter Notebook : Data Analysis](https://github.com/macs30200-s22/replication-materials-helyap/blob/main/child_network_survey_analysis.ipynb)
 
 ## Descriptive statistics
 ![](tab1.png "Descriptive Statistics")
@@ -49,8 +50,6 @@ Column labels:
 
 * H4: An individual is more likely to mobilize their father for instrumental job search aid if they perceive the father to have high social class: 
 **not supported**
-
-
 
 # Required packages
 * statsmodel 0.13.2
