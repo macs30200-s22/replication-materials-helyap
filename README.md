@@ -30,9 +30,9 @@ pip install -r requirements.txt
 * [Jupyter Notebook : Data Analysis](https://github.com/macs30200-s22/replication-materials-helyap/blob/main/child_network_survey_analysis.ipynb)
 
 ## Descriptive statistics
-![](tab1.png "Descriptive Statistics")
-![](char1.png "Gender distribution")
-![](char2.png "Distribution of race")
+* ![](tab1.png "Descriptive Statistics")
+* ![](char1.png "Gender distribution")
+* ![](char2.png "Distribution of race")
 
 
 ## Results from logistic regression - mobilization of mother
